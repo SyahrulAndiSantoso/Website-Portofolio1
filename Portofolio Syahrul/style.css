@@ -1,0 +1,18 @@
+section {
+	min-height: 450px;
+}
+.about{
+	background-image: url(img/4.1.jpg);
+	background-size: cover;
+}
+hr{
+	border-top: 3px solid #F5725A;
+	width: 210px;
+}
+
+.about h2, .about p{
+	text-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+}
+.jumbotron {
+	overflow: hidden;
+}
